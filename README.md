@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Introduction
 ============
 
@@ -50,3 +51,10 @@ AdminLTE 1.x can be easily upgraded to 2.x using [this guide](https://adminlte.i
 - [Pickaface](http://pickaface.net/)
 - [Unsplash](https://unsplash.com/)
 - [Uifaces](http://uifaces.com/)
+=======
+# JetSki
+JetSki
+
+
+BitzMe Testing
+>>>>>>> b1e6b879176cb5d590be35c5f1db6e5f858137b5
